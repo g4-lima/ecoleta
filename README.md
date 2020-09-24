@@ -2,6 +2,13 @@
   <img width="300" alt="logo" src="https://user-images.githubusercontent.com/63745509/90401692-b2464800-e074-11ea-94ad-f5c51723bbdf.png">
 </h1>
 
+<p align="center">
+  <a href="#about-project">About project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
+</p>
+
 <h1 align="center">
 <img width="800"  alt="Layout" src="https://user-images.githubusercontent.com/63745509/90402243-8e373680-e075-11ea-9747-1912864fd41b.png">
 </h1>
