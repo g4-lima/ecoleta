@@ -15,7 +15,7 @@
 ## About project
 
 Developed on the Next Level Week #01 event by [Rocketseat](https://rocketseat.com.br/), application for ecological purposes, which performs the registration 
-and listing of waste collection points.And it makes the connection between people and waste collectors easier.
+and listing of waste collection points. It makes the connection between people and waste collectors easier.
 
 ---
 
